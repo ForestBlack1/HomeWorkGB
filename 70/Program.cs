@@ -1,9 +1,11 @@
 ﻿// Задача 70 Показать натуральные числа от 1 до N, N задано
 int n = 7;
-int Rekurs(int a)
-{
-    Console.WriteLine(a);
-    if (a == 1) { return 1; }
-    return Rekurs(a - 1);
+int i = 1;
+void Rekurs(int i, int a)
+{ 
+    if(i <= a){
+        Console.WriteLine(i);
+        Rekurs(i + 1, a);
+    }
 }
-Rekurs(n);
+Rekurs(i, n);
