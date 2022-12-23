@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\программирование\80\bin\Debug\net6.0\80.exe
+C:\Users\User\Desktop\программирование\80\bin\Debug\net6.0\80.deps.json
+C:\Users\User\Desktop\программирование\80\bin\Debug\net6.0\80.runtimeconfig.json
+C:\Users\User\Desktop\программирование\80\bin\Debug\net6.0\80.dll
+C:\Users\User\Desktop\программирование\80\bin\Debug\net6.0\80.pdb
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.AssemblyInfo.cs
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.dll
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\refint\80.dll
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.pdb
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\80.genruntimeconfig.cache
+C:\Users\User\Desktop\программирование\80\obj\Debug\net6.0\ref\80.dll
